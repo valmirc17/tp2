@@ -1,6 +1,5 @@
 # Exercício 04 - Área do triângulo
 from tkinter import *
-from math import pi
 # Função
 def calcular():
     base = float(txt_base.get())
